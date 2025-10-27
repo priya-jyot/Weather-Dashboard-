@@ -20,7 +20,7 @@ It provides a comprehensive, at-a-glance view of current conditions, a weekly fo
 >Multiple Locations: Quick access to the current temperature for other saved cities (e.g., Dehradun, Kathua).
 
 
-**Tool/Technology	Purpose**
+**Tool/Technology	Purpose:**
 
 **>Power BI Desktop:** 	Primary tool for data visualization, dashboard design, and generating reports.
 **>Microsoft Excel:** 	Used for initial data preparation, cleaning, and structuring before loading into Power BI.
