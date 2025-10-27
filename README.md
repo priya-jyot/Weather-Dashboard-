@@ -22,10 +22,10 @@ It provides a comprehensive, at-a-glance view of current conditions, a weekly fo
 
 **Tool/Technology	Purpose**
 
-**Power BI Desktop:** 	Primary tool for data visualization, dashboard design, and generating reports.
-**Microsoft Excel:** 	Used for initial data preparation, cleaning, and structuring before loading into Power BI.
-**weatherapi.com:** 	The external data source providing real-time and forecast weather information.
-**DAX (Data Analysis Expressions):** 	Used within Power BI for creating custom calculations, measures, and complex data models.
+**>Power BI Desktop:** 	Primary tool for data visualization, dashboard design, and generating reports.
+**>Microsoft Excel:** 	Used for initial data preparation, cleaning, and structuring before loading into Power BI.
+**>weatherapi.com:** 	The external data source providing real-time and forecast weather information.
+**>DAX (Data Analysis Expressions):** 	Used within Power BI for creating custom calculations, measures, and complex data models.
 
 **Data Source:**
 www.weatherapi.com
